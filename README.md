@@ -3,7 +3,7 @@
 ## 2025/06/09
 - Pythonのfor文を練習した
 - GitHubで学習記録を始めた
-- HTMLの<img>タグと<br>タグを使った
+- HTMLの< img >タグと< br >タグを使った
 
 ### メモ
 - for _ in range(n): は、変数を使わないループ
